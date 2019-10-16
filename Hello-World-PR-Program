@@ -1,0 +1,8 @@
+#include<iostream>                           // importing library
+
+using namespace std;                         // declaring syntax
+
+int main
+{
+ cout << "Hello World PR" << '\n';           // body of the program
+}
